@@ -1,0 +1,1 @@
+git@github.com:Ebroxe/posmotri_v_okno.git
