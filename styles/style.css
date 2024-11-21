@@ -228,7 +228,8 @@ input[type="checkbox"]:checked + span::after,
 .content__list {
   overflow-y: scroll;
   position: relative;
-  height: 298px;
+  block-size: 25em;
+  writing-mode: horizontal;
 }
 
 .cards-list-item-template {
