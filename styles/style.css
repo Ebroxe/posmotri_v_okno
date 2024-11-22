@@ -228,7 +228,7 @@ input[type="checkbox"]:checked + span::after,
 .content__list {
   overflow-y: scroll;
   position: relative;
-  block-size: 25em;
+  block-size: 16.5em;
   writing-mode: horizontal;
 }
 
@@ -266,6 +266,10 @@ input[type="checkbox"]:checked + span::after,
 
 .content__video-card:focus {
   outline: 1px solid #fff;
+}
+
+.content__card-link_current {
+  background-color: #545050;
 }
 
 .content__video-card-description-container {
